@@ -47,9 +47,9 @@ public class Francesco {
 <br/>
 <img src="https://skillicons.dev/icons?i=angular,ts,html,css&theme=dark" />
 
-**Tools & Design**
+**Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,idea,postman,ai&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,idea,postman&theme=dark" />
 
 </div>
 
