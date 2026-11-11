@@ -31,8 +31,7 @@ public class Francesco {
 
 - 🚀 Co-founder of **FlowAlp**, a Swiss startup building POS, ticketing, booking and staff-management software for events and hospitality
 - 💼 Open to **developer opportunities** (on-site, hybrid or remote)
-- 🌱 Currently learning: algorithms & graphs (shortest-path), C#, German
-- 🎨 I also enjoy design work in Illustrator / SVG
+- 🌱 Currently learning: algorithms & graphs (shortest-path), Spring Boot, German
 
 ---
 
